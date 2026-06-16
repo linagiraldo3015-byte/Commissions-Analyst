@@ -1,0 +1,7 @@
+scheme_id,channel,tier,min_activations,max_activations,commission_pct,bonus_pct
+1,Interno,Tier 1,0,30.0,0.03,0.0
+2,Interno,Tier 2,31,60.0,0.045,0.0
+3,Interno,Tier 3,61,,0.06,0.1
+4,Externo,Tier 1,0,20.0,0.02,0.0
+5,Externo,Tier 2,21,50.0,0.03,0.0
+6,Externo,Tier 3,51,,0.045,0.08
